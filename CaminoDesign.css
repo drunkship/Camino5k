@@ -1,4 +1,11 @@
 @charset "UTF-8";
 .underline {
-    text-decoration: underline;
+    text-decoration: none;
+    border-bottom-width: medium;
+    border-bottom-style: solid;
+    border-top-width: medium;
+    border-top-style: solid;
+}
+.unBold {
+    font-style: italic;
 }
